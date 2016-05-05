@@ -1,0 +1,10 @@
+<h1>$cuisine.getType() restaurants:</h1>
+
+<ul>
+  #foreach($restaurant in $cuisine.getRestaurants())
+   <li>$restaurant.getName()</li>
+  #end
+</ul>
+
+<a href="/cuisines/$cuisine.getId()/restaurants/new">Add a new restaurant</a>
+<a href="/cuisines">All cuisines</a>

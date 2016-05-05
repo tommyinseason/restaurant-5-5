@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CuisineTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2016-05-05T21:08:14" hostname="epicodus-69.local" time="0.087">
+  <properties/>
+  <testcase name="equals_returnsTrueIfNamesAretheSame" classname="CuisineTest" time="0.004"/>
+  <testcase name="Cuisine_instantiatesCorrectly_true" classname="CuisineTest" time="0.004"/>
+  <testcase name="all_emptyAtFirst" classname="CuisineTest" time="0.007"/>
+  <testcase name="getName_cuisineInstantiatesWithName_String" classname="CuisineTest" time="0.004"/>
+  <testcase name="find_findCuisineInDatabase_true" classname="CuisineTest" time="0.013"/>
+  <testcase name="save_savesIntoDatabase_true" classname="CuisineTest" time="0.013"/>
+  <testcase name="save_assignsIdToObject" classname="CuisineTest" time="0.012"/>
+  <testcase name="getRestaurants_retrievesAllRestaurantsFromDataBase_restaurants" classname="CuisineTest" time="0.029"/>
+  <system-out><![CDATA[mycuisineid 336
+mycuisine restaurants [Restaurant@47b8642d, Restaurant@7eb4a4dd]
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

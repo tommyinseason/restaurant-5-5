@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="RestaurantTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2016-05-05T21:08:14" hostname="epicodus-69.local" time="0.071">
+  <properties/>
+  <testcase name="getLocation_instantiatesWithLocation_String" classname="RestaurantTest" time="0.005"/>
+  <testcase name="getPrice_instantiatesWithPrice_int" classname="RestaurantTest" time="0.005"/>
+  <testcase name="equals_returnsTrueIfDescriptionsAreTheSame" classname="RestaurantTest" time="0.004"/>
+  <testcase name="all_emptyAtFirst" classname="RestaurantTest" time="0.008"/>
+  <testcase name="save_returnsTrueIfDescriptionsAreTheSame" classname="RestaurantTest" time="0.013"/>
+  <testcase name="find_findsRestaurantInDatabase_true" classname="RestaurantTest" time="0.013"/>
+  <testcase name="getName_instantiatesWithName_String" classname="RestaurantTest" time="0.003"/>
+  <testcase name="save_assignsIdToObject" classname="RestaurantTest" time="0.011"/>
+  <testcase name="Restaurant_instantiatesCorrectly_true" classname="RestaurantTest" time="0.004"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
